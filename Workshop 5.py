@@ -2,11 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Mar  5 14:42:02 2020
-
-@author: owner
-
 Program: Outlier Detection
-Student name : Manreet Kaur
 
 Input: the number of terms for data series 
     
